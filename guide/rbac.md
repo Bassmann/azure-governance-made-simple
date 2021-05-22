@@ -1,3 +1,10 @@
+---
+id: 0c5d2f88-c565-4373-80f2-23e256fa590e
+title: Rbac
+desc: ''
+updated: 1621160629372
+created: 1621160629372
+---
 ## RBAC
 
 ![rbac](../images/rbac.png)

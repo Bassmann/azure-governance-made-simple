@@ -1,3 +1,10 @@
+---
+id: a34b4eb6-f166-484a-92af-9f9ff78cb484
+title: Governance Architecture
+desc: ''
+updated: 1621160629368
+created: 1621160629368
+---
 ## Governance Architecture in Azure
 
 Let's add these governance features to a diagram:

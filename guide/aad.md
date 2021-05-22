@@ -1,3 +1,10 @@
+---
+id: deaea943-93df-44d7-b97c-ed1ffc2f8d30
+title: Aad
+desc: ''
+updated: 1621160629361
+created: 1621160629361
+---
 ## Azure Active Directory
 
 In order to begin to understand in more detail about the main services related to Azure Governance, it is important to start by talking about the relationship between Azure Active Directory (AAD) and subscriptions. It will not be covered all the details about it here since this is not the purpose of this document. However, here we will see the basics of how it works and the difference between Azure Active Directory (AAD) and Active Directory (AD).

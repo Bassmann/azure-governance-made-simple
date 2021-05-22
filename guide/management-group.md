@@ -1,3 +1,10 @@
+---
+id: 4be5409b-bdb5-4a8f-abbf-888bc230fbf8
+title: Management Group
+desc: ''
+updated: 1621160629369
+created: 1621160629369
+---
 ## Management Groups
 
 In terms of the best practices of setting up governance in your environment structuring your hierarchy and organizing your resources is the first critical step.

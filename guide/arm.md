@@ -1,3 +1,10 @@
+---
+id: 278081d9-5cc6-4780-ab53-9a16c7413ba6
+title: Arm
+desc: ''
+updated: 1621160629363
+created: 1621160629363
+---
 ## ARM Templates
 
 ![arm-template](../images/arm-template.png)

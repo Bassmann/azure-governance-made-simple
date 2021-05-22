@@ -1,3 +1,10 @@
+---
+id: f4657205-8f00-4a28-a270-0bfe976ecd8c
+title: Policy
+desc: ''
+updated: 1621160629371
+created: 1621160629371
+---
 ### Azure Policy
 
 ![azure-policy](../images/azure-policy.png)

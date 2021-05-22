@@ -1,3 +1,10 @@
+---
+id: 676f7987-4887-4843-a9dd-762466decce0
+title: Resource Lock
+desc: ''
+updated: 1621160629373
+created: 1621160629373
+---
 ## Resource Locks
 
 Resource Locks are a feature that allows you to avoid accidentally deleting or modifying critical resources. The lock overrides any permissions the user might have.

@@ -1,3 +1,10 @@
+---
+id: cb2ff879-0230-4200-8649-80bdfe3fb7a7
+title: Subscription
+desc: ''
+updated: 1621160629374
+created: 1621160629374
+---
 ## Azure Subscription
 
 As stated earlier, when creating an Azure subscription an AAD tenant is automatically created for you. With this, after creating and/or synchronizing users in Azure Active Directory, you can now allow your ADF users to subscribe to your subscription and its existing resources.

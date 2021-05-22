@@ -1,3 +1,10 @@
+---
+id: 27487059-b920-4de6-a91a-e92f37808f1e
+title: Policy Best Practices
+desc: ''
+updated: 1621160629371
+created: 1621160629371
+---
 ## Azure Policy best practices
 
 Ask yourself these 3 questions and work from them when defining your policies

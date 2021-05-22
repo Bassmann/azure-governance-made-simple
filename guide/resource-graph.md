@@ -1,3 +1,10 @@
+---
+id: ed6fd1d1-5cf8-41a6-a25b-2db2e41a870d
+title: Resource Graph
+desc: ''
+updated: 1621160629372
+created: 1621160629372
+---
 ## Azure Resource Graph
 
 ![resource-graph-1](../images/resource-graph-1.png)

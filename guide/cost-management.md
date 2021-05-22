@@ -1,3 +1,10 @@
+---
+id: a05cffe2-e61e-4be7-a297-fcb15136334b
+title: Cost Management
+desc: ''
+updated: 1621160629367
+created: 1621160629367
+---
 ## Cost Management
 
 ![cost-management](../images/cost-management.png)

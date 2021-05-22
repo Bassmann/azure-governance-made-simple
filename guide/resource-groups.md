@@ -1,3 +1,10 @@
+---
+id: 330b6fdd-7788-4b6c-bc27-4f83ad985301
+title: Resource Groups
+desc: ''
+updated: 1621160629372
+created: 1621160629372
+---
 ## Resource Groups
 
 Resource groups are the approach that allows you to group a collection of objects into logical groups, facilitating provisioning, monitoring, access and cost control. The benefit of using resource groups is precisely the grouping of resources that are part of the same application or share the same life cycle from creation to deprovisioning.

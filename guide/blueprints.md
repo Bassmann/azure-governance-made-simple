@@ -1,3 +1,10 @@
+---
+id: 70e15c5e-fbe2-4325-b5d2-00e4ff15cc8c
+title: Blueprints
+desc: ''
+updated: 1621160629366
+created: 1621160629366
+---
 ## Azure Blueprints
 
 ![azure-blueprints-1](../images/azure-blueprints-1.png)

@@ -1,3 +1,10 @@
+---
+id: c82569cf-7697-4ca4-a011-735c66ad6362
+title: Naming
+desc: ''
+updated: 1621160629369
+created: 1621160629369
+---
 ## Naming standards
 
 A naming strategy for use with Azure resources is important within the governance approach. The use of some naming conventions will assist in the location and management of resources as well as in the association of costs with the business areas.

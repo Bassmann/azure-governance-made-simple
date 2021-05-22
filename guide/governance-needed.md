@@ -1,3 +1,10 @@
+---
+id: 27de7fa7-6af0-40ae-ab6e-24a2c39d9503
+title: Governance Needed
+desc: ''
+updated: 1621160629368
+created: 1621160629368
+---
 ## Why is governance needed?
 
 ![Why is governance needed?](../images/governance-needed.png)

@@ -1,0 +1,5 @@
+.vscode/
+.autogit/logs/
+*.pdf
+*.csv
+.dendron.cache.json
