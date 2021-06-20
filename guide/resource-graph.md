@@ -7,7 +7,7 @@ created: 1621160629372
 ---
 ## Azure Resource Graph
 
-![resource-graph-1](../images/resource-graph-1.png)
+![resource-graph-1](./assets/images/resource-graph-1.png)
 
 There are a few challenges today when it comes to getting visibility of all your resources properties in all subscriptions and understand how they can be impacting negatively your organization, being from a cost or a security perspectives.
 
@@ -17,12 +17,12 @@ There are a few challenges today when it comes to getting visibility of all your
 
 Resource Graph is the tool that comes to cover those needs allowing you to query and explore your resources in real time.
 
-![resource-graph-2](../images/resource-graph-2.png)
+![resource-graph-2](./assets/images/resource-graph-2.png)
 
 Reference: [https://docs.microsoft.com/en-us/azure/governance/resource-graph/overview](https://docs.microsoft.com/en-us/azure/governance/resource-graph/overview)
 
 ---
 
-Previous| Next | 
+Previous| Next |
 :----- |:-----
-[Azure Blueprints](/guide/blueprints.md)| [Azure Management Group](/guide/management-group.md)
+[Azure Blueprints](blueprints.md)| [Azure Management Group](management-group.md)

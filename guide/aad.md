@@ -1,6 +1,6 @@
 ---
 id: deaea943-93df-44d7-b97c-ed1ffc2f8d30
-title: Aad
+title: Azure Active Directory
 desc: ''
 updated: 1621160629361
 created: 1621160629361
@@ -24,6 +24,6 @@ So basically, the main difference from Active Directory to Azure Active Director
 
 ---
 
-Previous| Next | 
+Previous| Next |
 :----- |:-----
-[Governance architecture in Azure](/guide/aad.md)| [Naming Standards](/guide/naming.md)
+[Governance architecture in Azure](governance-architecture.md)| [Naming Standards](naming.md)

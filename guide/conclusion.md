@@ -15,8 +15,7 @@ Having a board containing all the information related to governance from the det
 
 So come on. Visit [https://aka.ms/azgovernancereadiness](https://aka.ms/azgovernancereadiness) and find out how to use Azure DevOps Generator to get it all for free and start implementing Azure Governance in your organization.
 
-![governance-devopsgenerator](../images/governance-devopsgenerator.png)
-
+![governance-devopsgenerator](./assets/images/governance-devopsgenerator.png)
 
 ### Azure Governance Visualizer
 
@@ -29,6 +28,6 @@ The AzGovViz (Azure governance visualizer) is a PowerShell script that iterates 
 
 ---
 
-Previous|  
-:----- 
-[Azure Cost Management](/guide/cost-management.md)| 
+Previous|
+:-----
+[Azure Cost Management](cost-management.md)|

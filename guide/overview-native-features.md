@@ -7,7 +7,7 @@ created: 1621160629370
 ---
 ## Overview of Azure native features for cloud governance
 
-![native tools](../images/overview-native-tools.png)
+![native tools](./assets/images/overview-native-tools.png)
 
 The resources we have in the Azure portfolio to deliver this level of control are what you see in the image above. All of these are native features of the platform, in other words, nothing here is a different product that you need to purchase or deploy in your cloud environment. The moment you create your first subscription, these features are there for you to use right away and are completely free.
 
@@ -23,6 +23,6 @@ The resources we have in the Azure portfolio to deliver this level of control ar
 
 ---
 
-Previous| Next | 
+Previous| Next |
 :----- |:-----
-[Why is Governance needed?](/guide/governance-needed.md)  | [Governance architecture in Azure](/guide/governance-architecture.md)
+[Why is Governance needed?](governance-needed.md)  | [Governance architecture in Azure](governance-architecture.md)

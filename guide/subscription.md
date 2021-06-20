@@ -18,7 +18,7 @@ An important point to be taken into account about permissioning is that there ar
 
 This image can help you understand a little about how the functions of Azure and Azure Active Directory are related:
 
-![ad-rbac-roles](../images/ad-rbac-roles.png)
+![ad-rbac-roles](./assets/images/ad-rbac-roles.png)
 
 An Azure subscription has a trust relationship with the AAD to authenticate and authorize users, services and devices.
 
@@ -36,11 +36,11 @@ It is important to define an architecture on the use of signatures so that there
 
 As described in [this link](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/initial-subscriptions), the recommendation is that there are at least two signatures, one for the productive environment and the other for the non-productive environment. Depending on the size of your environment or the strategy of your company, it may be necessary to create more signatures and in addition to combine the design of signatures with the definition of the [landing zone](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/) to be created.
 
-![landing-zone](../images/landing-zone.png)
+![landing-zone](./assets/images/landing-zone.png)
 
 The Microsoft [Cloud Adopt Framework](http://aka.ms/caf) describes in details about several topics over the enterprise-scale landing zone architecture, which offers a modular design and not only makes it simple to deploy existing and new applications but also allows organizations to start with a lighter deployment implementation and scale depending on their business needs.
 
-Basically, the landing zone will deal with a set of considerations and recommendations based on some design areas: 
+Basically, the landing zone will deal with a set of considerations and recommendations based on some design areas:
 
 * [Enterprise agreement (EA) enrolment and Azure Active Directory tenants](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/enterprise-scale/enterprise-enrollment-and-azure-ad-tenants/)
 * [Identity and access management](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/enterprise-scale/identity-and-access-management/)
@@ -53,7 +53,7 @@ Basically, the landing zone will deal with a set of considerations and recommend
 
 In the landing zone, the choice of network topology to be used is important for the process of governance defitinition. As example, the Hub and Spoke topology may be inserted in the context of subscriptions as follows:
 
-![hub-spoke](../images/hub-spoke.png)
+![hub-spoke](./assets/images/hub-spoke.png)
 
 * A first subscription to **shared services** (Hub Virtual Network)
 * A second subscription to the **production** environment (Spoke 1 Virtual Network)
@@ -75,7 +75,7 @@ Currently, enterprise-scale offers [three different reference implementations](h
 
 ---
 
-Previous| Next | 
+Previous| Next |
 :----- |:-----
-[Naming Standards](/guide/naming.md)| [Resource Groups](/guide/resource-groups.md)
+[Naming Standards](naming.md)| [Resource Groups](resource-groups.md)
 

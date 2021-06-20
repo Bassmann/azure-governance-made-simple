@@ -13,7 +13,7 @@ The underlying technology that empowers resource groups is [Azure Resource Manag
 
 Since ARM became available, these and other challenges have been addressed in addition to providing a new set of application programming interfaces (APIs) for provisioning resources in Azure. ARM requires resources to be placed in groups of resources, allowing the logical grouping of related resources.
 
-![resource-group](../images/resource-group.png)
+![resource-group](./assets/images/resource-group.png)
 
 <div align="center"><em>Example of resource organization within distinct resource groups</em></div>
 
@@ -24,6 +24,6 @@ Additional references:
 
 ---
 
-Previous| Next | 
+Previous| Next |
 :----- |:-----
-[Azure Subscription](/guide/subscription.md)| [Resource Tags](/guide/resource-tags.md)
+[Azure Subscription](subscription.md)| [Resource Tags](resource-tags.md)

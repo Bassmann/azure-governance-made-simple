@@ -9,7 +9,7 @@ created: 1621160629368
 
 Let's add these governance features to a diagram:
 
-![governance-diagram](../images/governance-diagram.png)
+![governance-diagram](./assets/images/governance-diagram.png)
 
 Think of multiple development teams or business units that want to consume Azure resources to meet their specific business requirements. How many of these people, especially DevOps, will readily know how to properly design and configure network components?
 
@@ -21,6 +21,6 @@ Finally, you can take advantage of the Resource Graph to check the environment a
 
 ---
 
-Previous| Next | 
-:----- |:-----
-[Overview of Azure native features for cloud governance](/guide/overview-native-features.md)| [Azure Active Directory](/guide/aad.md)
+| Previous                                                                                     | Next                                    |
+| :------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| [Overview of Azure native features for cloud governance](overview-native-features.md) | [Azure Active Directory](aad.md) |

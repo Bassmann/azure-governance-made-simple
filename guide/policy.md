@@ -5,9 +5,9 @@ desc: ''
 updated: 1621160629371
 created: 1621160629371
 ---
-### Azure Policy
+## Azure Policy
 
-![azure-policy](../images/azure-policy.png)
+![azure-policy](./assets/images/azure-policy.png)
 
 
 Policy is the backbone of Azure implementation and compliance. Compliance is an evolving scenario that you will always need to assess and adjust according to the needs of the moment. You also need to carefully plan your policies so as not to interrupt other units that require a more flexible policy than the one you have defined.
@@ -20,19 +20,19 @@ The policy focuses on the properties of resources during deployment and for exis
 
 Below a sample on how Azure Policy can help with governance.
 
-![azure-policy-1](../images/azure-policy-1.png)
+![azure-policy-1](./assets/images/azure-policy-1.png)
 
 Your DevOps request to deploy resources in Azure for a given project using a pre-built JSON model to make things easier and faster. Let's say they want to deploy 5 G series VMs in Europe (high ratio of memory to CPU and are ideal for database servers) and 5 Ls in the USA (high disk transfer rate, ideal for big data and SQL).
 
 Azure Policy takes action and scans
 
-![azure-policy-2](../images/azure-policy-2.png)
+![azure-policy-2](./assets/images/azure-policy-2.png)
 
-![azure-policy-2](../images/azure-policy-3.png)
+![azure-policy-2](./assets/images/azure-policy-3.png)
 
-![azure-policy-4](../images/azure-policy-4.png)
+![azure-policy-4](./assets/images/azure-policy-4.png)
 
-**Order of evaluation**
+## Order of evaluation
 
 Requests to create or update a resource through Azure Resource Manager are evaluated by Policy first. Policy creates a list of all assignments that apply to the resource and then evaluates the resource against each definition. Policy processes several of the effects before handing the request to the appropriate Resource Provider. Doing so prevents unnecessary processing by a Resource Provider when a resource doesn't meet the designed governance controls of Policy.
 
@@ -46,18 +46,14 @@ Requests to create or update a resource through Azure Resource Manager are evalu
 
 After the resource provider returns a success code, AuditIfNotExists and DeployIfNotExists evaluate to determine whether additional compliance logging or action is required.
 
-**AuditIfNotExists**
+**AuditIfNotExists** AuditIfNotExists enables auditing on resources that match the **if** condition, but does not have the components specified in the **details** of the **then** condition.
 
-AuditIfNotExists enables auditing on resources that match the **if** condition, but does not have the components specified in the **details** of the **then** condition.
+**DeployIfNotExists** Similar to AuditIfNotExists, DeployIfNotExists performs a model deployment when the condition is met.
 
-**DeployIfNotExists**
-
-Similar to AuditIfNotExists, DeployIfNotExists performs a model deployment when the condition is met.
-
-Reference: [https://docs.microsoft.com/en-us/azure/governance/policy/overview](https://docs.microsoft.com/en-us/azure/governance/policy/overview) 
+Reference: [https://docs.microsoft.com/en-us/azure/governance/policy/overview](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 
 ---
 
-Previous| Next | 
+Previous| Next |
 :----- |:-----
-[Resource Lock](/guide/resource-lock.md)| [Policy Best Practices](/guide/policy-best-practices.md)
+[Resource Lock](resource-lock.md)| [Policy Best Practices](policy-best-practices.md)

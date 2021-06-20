@@ -7,7 +7,7 @@ created: 1621160629368
 ---
 ## Why is governance needed?
 
-![Why is governance needed?](../images/governance-needed.png)
+![Why is governance needed?](./assets/images/governance-needed.png)
 
 Companies are adopting the cloud to be more agile and save money. There is pressure to transform and innovate digitally, so that you no longer have time to focus on your own infrastructure. You want to focus on making your customers happy by providing high quality services with the support of your engineering teams. So there is a natural shift to DevOps in a cloud environment, where engineers will more quickly provide the resources needed to support a solution.
 
@@ -15,7 +15,7 @@ However, this agility and easy access to resources comes at a price and many com
 
 How did the industry react to this expansion? We jumped in front of the developers and the operations teams and stopped them before things got out of hand. We then introduced a formal process for these teams to follow where they should fill out a form so that the infra team could set up everything and in 2 weeks they would have access to their environment.
 
-![traditional-approach](../images/traditional-approach.png)
+![traditional-approach](./assets/images/traditional-approach.png)
 <div align="center"><em>Traditional approach, sacrificing speed for control</em></div>
 <br>
 However, this approach in the cloud age slows things down and you sacrifice speed to be in control.
@@ -24,7 +24,7 @@ In a cloud-native governance model, you get both speed and control at the same t
 
 You can guarantee that your teams will deploy only approved resources and anything outside these rules will be effectively denied. That way, you keep your costs predictable and more in line with your budget.
 
-![cloud-governance-approach](../images/cloud-governance-approach.png)
+![cloud-governance-approach](./assets/images/cloud-governance-approach.png)
 <div align="center"><em>Native cloud governance model, with speed and control together</em></div>
 <br>
 
@@ -56,9 +56,9 @@ If cloud is something new for you, I have some suggestions to help you start to 
 ✔️ [Build great solutions with the Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/)
 
 ---
-| Next | 
+| Next |
 |:-----
-| [Overview of Azure native features for cloud governance](/guide/overview-native-features.md)
+| [Overview of Azure native features for cloud governance](overview-native-features.md)
 
 
 
