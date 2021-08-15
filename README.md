@@ -1,4 +1,11 @@
-# Azure Governance made simple
+---
+id: EPLPNrRPuYcTwZDK5jEAc
+title: Azure Governance made simple
+desc: ''
+updated: 1629036487025
+created: 1629035789997
+---
+
 >Main topics about Azure Governance in a structured "e-book" to serve as a Learning Path for Governance.
 
 This fork of <https://github.com/ricmmartins/azure-governance-made-simple> has the same content but in form of a Dendron vault.
