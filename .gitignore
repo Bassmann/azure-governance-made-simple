@@ -3,3 +3,4 @@
 *.pdf
 *.csv
 .dendron.cache.json
+.dendron.cache.*
