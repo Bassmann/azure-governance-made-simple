@@ -25,6 +25,6 @@ In ither hand, if you are more familiar with opensource tools like Terraform to 
 
 ---
 
-| Previous                                          | Next                              |
-| :------------------------------------------------ | :-------------------------------- |
-| [Policy Best Practices](policy-best-practices.md) | [Azure Blueprints](blueprints.md) |
+| Previous                                                | Next                              |
+| :------------------------------------------------------ | :-------------------------------- |
+| [Governance suggested policies](governance-policies.md) | [Azure Blueprints](blueprints.md) |
