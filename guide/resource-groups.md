@@ -15,15 +15,13 @@ Since ARM became available, these and other challenges have been addressed in ad
 
 ![resource-group](./assets/images/resource-group.png)
 
-<div align="center"><em>Example of resource organization within distinct resource groups</em></div>
-
 Additional references:
 
-* [https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/2-principles-of-resource-groups](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/2-principles-of-resource-groups)
-* [https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#create-resource-groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#create-resource-groups)
+- [https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/2-principles-of-resource-groups](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/2-principles-of-resource-groups)
+- [https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#create-resource-groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#create-resource-groups)
 
 ---
 
-Previous| Next |
-:----- |:-----
-[Azure Subscription](subscription.md)| [Resource Tags](resource-tags.md)
+| Previous                              | Next                              |
+| :------------------------------------ | :-------------------------------- |
+| [Azure Subscription](subscription.md) | [Resource Tags](resource-tags.md) |

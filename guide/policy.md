@@ -9,7 +9,6 @@ created: 1621160629371
 
 ![azure-policy](./assets/images/azure-policy.png)
 
-
 Policy is the backbone of Azure implementation and compliance. Compliance is an evolving scenario that you will always need to assess and adjust according to the needs of the moment. You also need to carefully plan your policies so as not to interrupt other units that require a more flexible policy than the one you have defined.
 
 Through policies, you can control the types of resources that can be provisioned. Or, you can restrict the locations where resources can be provisioned. Unlike RBAC, the policy is a standard system of explicit permission and denial.
@@ -54,6 +53,6 @@ Reference: [https://docs.microsoft.com/en-us/azure/governance/policy/overview](h
 
 ---
 
-Previous| Next |
-:----- |:-----
-[Resource Lock](resource-lock.md)| [Policy Best Practices](policy-best-practices.md)
+| Previous                          | Next                                              |
+| :-------------------------------- | :------------------------------------------------ |
+| [Resource Lock](resource-lock.md) | [Policy Best Practices](policy-best-practices.md) |

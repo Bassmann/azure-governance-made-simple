@@ -15,6 +15,6 @@ Likewise, you can find a list of recommended abbreviations for the most diverse 
 
 ---
 
-Previous| Next | 
-:----- |:-----
-[Azure Active Directory](/guide/aad.md)| [Azure Subscription](/guide/subscription.md)
+| Previous                         | Next                                  |
+| :------------------------------- | :------------------------------------ |
+| [Azure Active Directory](aad.md) | [Azure Subscription](subscription.md) |
