@@ -16,7 +16,9 @@ This content was made with the aim of raising awareness about the resources avai
 
 It will be divided into two parts, the first dealing with more basic topics and the second part dealing with advanced topics within this context.
 
-***✔️ A Brazilian Portuguese version form this material is [available here](https://github.com/ricmmartins/guia-pratico-governanca-azure).***
+***✔️ A Brazilian-Portuguese version from this material is [available here](https://github.com/ricmmartins/guia-pratico-governanca-azure).***
+
+***✔️ You can download this e-book in PDF, EPUB or MOBI formats at [Leanpub](https://leanpub.com/azuregovernancemadesimple).***
 
 ## Basic governance topics
 
@@ -37,6 +39,7 @@ It will be divided into two parts, the first dealing with more basic topics and 
 
 9. [Azure Policy](guide/policy.md)
    * [Azure policy best practices](guide/policy-best-practices.md)
+   * [Governance suggested policies](guide/governance-policies.md)
 10. [ARM Templates](guide/arm.md)
 11. [Azure Blueprints](guide/blueprints.md)
 12. [Azure Resource Graph](guide/resource-graph.md)

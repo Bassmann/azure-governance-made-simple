@@ -32,6 +32,6 @@ These questions need to be asked from time to time as compliance is an evolving 
 
 ---
 
-Previous| Next |
-:----- |:-----
-[Azure Policy](policy.md)| [ARM Templates](arm.md)
+| Previous                  | Next                                                    |
+| :------------------------ | :------------------------------------------------------ |
+| [Azure Policy](policy.md) | [Governance suggested policies](governance-policies.md) |
