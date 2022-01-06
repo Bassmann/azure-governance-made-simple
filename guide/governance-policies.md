@@ -82,4 +82,4 @@ Here are a list of suggested policies you can apply in your environment in order
 
 Previous| Next | 
 :----- |:-----
-[Azure Policy Best Practices](/guide/policy-best-practices.md)| [ARM Templates](/guide/arm.md)
+[Azure Policy Best Practices](policy-best-practices.md)| [ARM Templates](/arm.md)
