@@ -1,3 +1,10 @@
+---
+id: X2KerGxxMs9kD4bVu89Cm
+title: Governance Policies
+desc: ''
+updated: 1643469475512
+created: 1643469475512
+---
 ## Governance suggested policies
 
 Here are a list of suggested policies you can apply in your environment in order to help in your governance approach.
