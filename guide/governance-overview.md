@@ -5,16 +5,11 @@ desc: ''
 updated: 1621160629369
 created: 1621160629369
 ---
-# Governance Overview
-
-
 ## Why is governance needed?
-
 
 img[src*='#center'] { 
     display: block; 
     margin: auto; 
-
 
 <center><img src="../images/governance-needed.png"/></center>
 
