@@ -1,5 +1,5 @@
 ---
-id: s1cw4iRcMNr-LMqhjjqc0
+id: amgzobiuvi23buh59y88edu
 title: Azure Governance made simple
 desc: ''
 updated: 1624215991765
